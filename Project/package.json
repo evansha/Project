@@ -1,0 +1,26 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "test GlobalSQA page",
+  "main": "Testcases.js",
+  "scripts": {
+    "update": "webdriver-manager update"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evansha/Project.git"
+  },
+  "author": "example",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evansha/Project/issues"
+  },
+  "homepage": "https://github.com/evansha/Project#readme",
+  "dependencies": {
+    "jasmine": "^3.7.0",
+    "protractor": "^7.0.0"
+  }
+}
